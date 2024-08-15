@@ -2,9 +2,12 @@
 创建一个个人仓库，用于提交笔记、心得体会或分享项目。
 
 ![image](https://github.com/user-attachments/assets/7d06db87-65b6-40fa-ad02-abf5e6de16de)
-教程
+
+
+教程/
 https://github.com/InternLM/Tutorial/blob/camp3/README.md
-要求
+/
+要求/
 创建并维护一个公开的大模型相关项目或笔记仓库。
 提交作业时，提供您的 GitHub 仓库链接。
 如果您不常使用 GitHub，您可以选择其他代码管理平台，如 Gitee，并提交相应的链接。
